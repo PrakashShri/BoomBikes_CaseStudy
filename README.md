@@ -83,7 +83,7 @@ Give credit here.
 This project is completed after successfully completing the learning session provided by IIITB & UpGrad for the EDA analysis,Pyhton and their libraries like Pandas, numpy ,matplotlib etc.
 
 ## Contact
-Created by [@PrakashShri] - feel free to contact me!
+Created by @PrakashShri - feel free to contact me!
 
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
